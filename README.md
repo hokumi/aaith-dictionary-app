@@ -1,1 +1,0 @@
-# aaith-dictionary-app
